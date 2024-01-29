@@ -1,2 +1,11 @@
-# DS105
-DS105 Data for Data Scientists at the LSE
+## About me
+
+I am a student at the _LSE_ studying math and econ.
+
+I will use this GitHub profile to showcase my data science skills.
+
+### Interests
+
+- Python 
+- Data Science
+- Gym
